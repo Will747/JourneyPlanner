@@ -6,7 +6,7 @@ be calculated between any two stations. This uses a path finding algorithm based
 The projected was designed in the form of a website using ReactJS for the frontend and C# ASP.NET was used on the backend to create a REST API to
 communicate with the frontend app.
 
-Link to demo coming soon
+[Check out a demo of the project here](https://planner.wkaye.dev/)
 
 ## Completed Objectives
 - Store basic information for every station in the UK
