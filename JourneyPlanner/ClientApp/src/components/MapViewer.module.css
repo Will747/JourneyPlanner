@@ -1,0 +1,23 @@
+.Map{
+    position: relative !important;
+}
+
+@media (min-width: 600px)
+{
+    .Map {
+        height: 338px !important;
+        width: 400px !important;
+    }
+}
+
+@media (max-width: 600px)
+{
+    .Map {
+        height: 338px !important;
+        width: 80vw !important;
+    }
+}
+
+.Paper {
+    margin: 10px;
+}

@@ -1,0 +1,29 @@
+.ratios {
+    justify-content: center;
+}
+
+.ToFrom {
+    display: flex;
+    flex-direction: column;
+}
+
+.ToFrom > div {
+   margin: 10px;
+}
+
+.MultiStopButtons {
+    display: flex;
+}
+
+.MultiStopButtons > button {
+    flex-grow: 1;
+    margin: 5px;
+}
+
+.AddStopButton {
+    margin: 10px;
+}
+
+.codeName {
+    float: right;
+}

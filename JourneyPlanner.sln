@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JourneyPlanner", "JourneyPlanner\JourneyPlanner.csproj", "{02CE0690-E5DB-4ABD-ABE8-36768D5CA865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02CE0690-E5DB-4ABD-ABE8-36768D5CA865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02CE0690-E5DB-4ABD-ABE8-36768D5CA865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02CE0690-E5DB-4ABD-ABE8-36768D5CA865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02CE0690-E5DB-4ABD-ABE8-36768D5CA865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

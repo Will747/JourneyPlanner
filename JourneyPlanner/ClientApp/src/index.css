@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
+}
+
+.credit-box {
+    text-align: center;
+    margin-top: auto;
+    line-height: 5px;
+}
